@@ -38,6 +38,16 @@ Ollama + Qwen2.5
       ▼
 AI Analysis & Recommendations
 ```
+Vs Code
+<img width="1907" height="928" alt="image" src="https://github.com/user-attachments/assets/5594bc06-c3e9-4e0d-ac6a-a692c9391fd4" />
+
+Model Running 
+<img width="1907" height="330" alt="Screenshot 2026-05-31 112719" src="https://github.com/user-attachments/assets/cc2ae650-6838-4e47-9c35-b525e2f0346b" />
+
+AWS-AGENT RUNNING ON NEW TAB 
+<img width="1903" height="680" alt="Screenshot 2026-05-31 112327" src="https://github.com/user-attachments/assets/ae0f59d9-9ee4-4a5a-a21b-5de1c08a8493" />
+
+<img width="1907" height="1087" alt="Screenshot 2026-05-31 112706" src="https://github.com/user-attachments/assets/3752cdd8-0db2-48fa-8397-708c37bcf19f" />
 
 ---
 
